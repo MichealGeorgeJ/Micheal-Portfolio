@@ -20,7 +20,7 @@ const Resume = ({id}) => {
     data-aos-mirror="true"
     data-aos-once="true"
     data-aos-anchor-placement="top-center">
-            <img style={{boxShadow: '#ffffff 0px 7px 29px 0px'}} className='w-75 ' src="https://res.cloudinary.com/dkwftase4/image/upload/v1712920807/White_and_Beige_Minimalist_Designer_Professional_Cv_Resume_3_1_p57ljt.jpg" alt="" />
+            <img style={{boxShadow: '#ffffff 0px 7px 29px 0px'}} className='w-75 ' src="https://res.cloudinary.com/dkwftase4/image/upload/v1717400901/Resume-image_rqnwki.png" alt="img" />
             
           </div>
           <div className="col-lg-6 col-sm-12 d-flex justify-content-center align-items-center flex-column" data-aos="fade-up"
@@ -41,7 +41,7 @@ const Resume = ({id}) => {
     data-aos-easing="ease-in-out"
     data-aos-mirror="true"
     data-aos-once="true"
-    data-aos-anchor-placement="top-center"> <a style={{textDecoration:"none",color:"#7f00ff"}} href="https://res.cloudinary.com/dkwftase4/image/upload/fl_attachment/White_and_Beige_Minimalist_Designer_Professional_Cv_Resume_3_1_p57ljt.jpg"> <h4>Download</h4></a></button>
+    data-aos-anchor-placement="top-center"> <a style={{textDecoration:"none",color:"#7f00ff"}} href="https://res.cloudinary.com/dkwftase4/image/upload/fl_attachment/Resume-pdf_e9ymm2.pdf"> <h4>Download</h4></a></button>
             </div>
           </div>
         </div>
